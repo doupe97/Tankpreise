@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="112px" viewBox="0 0 70 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <path d="M0,0 L64,0 L64,102.498062 C64,104.154916 62.6568542,105.498062 61,105.498062 C60.1787835,105.498062 59.3934678,105.161415 58.8272176,104.56664 L33.4485216,77.9095007 C32.6868921,77.1095043 31.4209441,77.0784018 30.6209477,77.8400314 C30.5972259,77.8626155 30.5740625,77.8857789 30.5514784,77.9095007 L5.17278239,104.56664 C4.03033808,105.766635 2.13141616,105.813289 0.931421581,104.670844 C0.336646672,104.104594 2.14168521e-14,103.319278 0,102.498062 L0,0 L0,0 Z" id="path-1"></path>
+        <filter x="-6.2%" y="-3.6%" width="115.6%" height="105.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.000000, 2.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <path stroke="#39444A" stroke-width="4" d="M62,2 L62,102.498062 C62,102.774204 61.8880712,103.024204 61.7071068,103.205169 C61.5261424,103.386133 61.2761424,103.498062 61,103.498062 C60.7262612,103.498062 60.4644893,103.385846 60.2757392,103.187588 L60.2757392,103.187588 L34.8970432,76.5304484 C34.1354136,75.730452 33.1216249,75.3149026 32.0982444,75.2897596 C31.0572213,75.2641832 30.0062729,75.6425903 29.2007295,76.4312538 L29.2007295,76.4312538 L3.7242608,103.187588 C3.53385341,103.387587 3.28040623,103.491475 3.02456111,103.49776 C2.768716,103.504046 2.51047296,103.41273 2.31047386,103.222323 C2.11221556,103.033573 2,102.771801 2,102.498062 L2,102.498062 L2,2 L62,2 Z" stroke-linejoin="square" fill="#6BB1EE" fill-rule="evenodd"></path>
+            </g>
+            <path d="M12,13 L60,13 L60,73 C47.5301836,73.2046721 38.1968502,73.3070081 32,73.3070081 C25.8031498,73.3070081 19.1364831,73.2046721 12,73 L12,13 Z" id="Rectangle" fill="#3594E8"></path>
+            <polygon id="Rectangle" fill="#3594E8" points="12 73 32 73 28.7965517 74.0042551 12 91.453214"></polygon>
+            <polygon id="Rectangle" fill="#3594E8" points="32 73 60 73 60 100 35.5982448 74.273358"></polygon>
+            <line x1="56" y1="73" x2="53.2748755" y2="73" id="Path" fill="#3594E8"></line>
+        </g>
+    </g>
+</svg>

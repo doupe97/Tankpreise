@@ -1,0 +1,19 @@
+.tileBorder{
+    width:30em;
+    height: 7em;
+    border-radius: 25px;
+    border: 1px solid rgb(150, 154, 155);
+    background-color:rgb(150, 154, 155) ;
+}
+.petrolStationIcon{
+    width:6em;
+    height:6em;
+    margin-left:20px;
+    margin: auto auto;
+    margin-left: 1em;
+    margin-top: 0.5em;
+    position:relative;
+}
+#h3{
+    width: 2em;
+}

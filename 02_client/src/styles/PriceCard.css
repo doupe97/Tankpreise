@@ -1,0 +1,26 @@
+.dist {
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 14pt !important;
+    color: rgb(60, 60, 60);
+}
+
+.paper {
+    background: linear-gradient(90deg, rgba(207,207,207,1) 0%, rgba(226,223,223,1) 35%, rgba(232,232,232,1) 100%);
+}
+
+a, a:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14pt;
+}
+
+.address {
+    margin-top: 15px !important;
+}
+
+.brandName {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 18pt;
+    font-weight:600;
+}

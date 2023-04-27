@@ -1,0 +1,7 @@
+.loginMessage {
+    padding: 50px;
+}
+
+.loginMessage > a {
+    color: rgb(255, 123, 0);
+}

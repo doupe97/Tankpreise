@@ -1,0 +1,64 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+  
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: 80px;
+  border-bottom: 1px solid #9b9b9b;
+  width: 900px;
+}
+  
+.gasStation {
+  display: flex;
+  align-items: center;
+  padding-right: 24px;
+  min-width: 300px;
+}
+
+.gasStation h1 {
+  font-size: 20px;
+  width: 150px;
+}
+
+.gasStation img {
+  height: 30px;
+  width: 80px;
+  margin-right: 35px;
+}
+
+.gasStation-data {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.gasStation-data-price {
+  width: 110px;
+}
+
+.gasStation-data-address {
+  width: 300px;
+}
+
+.gasStation-data-coordinates {
+  width: 150px;
+}
+
+.gasStation-data-distance {
+  width: 80px;
+}
+
+.red {
+  color: #f00606;
+}
+
+.green {
+  color: #11d811;
+}
