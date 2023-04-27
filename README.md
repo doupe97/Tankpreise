@@ -14,4 +14,6 @@ Im Hintergrund werden die Daten in einer MySQL-Datenbank gespeichert.
 | Webserver   | Apache (XAMPP)             |
 | APIs        | Tankerkönig & Google Maps  |
 
-![alt text](https://github.com/doupe97/Tankpreise/blob/main/01_infos/Unterwebseite_Favoriten.png)
+![Favoriten](https://github.com/doupe97/Tankpreise/blob/main/01_infos/Unterwebseite_Favoriten.png)
+
+![Anwendungsarchitektur](https://github.com/doupe97/Tankpreise/blob/main/01_infos/Anwendungsarchitektur.svg)
