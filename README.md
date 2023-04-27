@@ -1,7 +1,7 @@
 # Tankpreise
 
 ### Beschreibung ###
-Dieses Projekt wurde im Rahmen des B. Sc. Moduls Webtechnologien umgesetzt.
+Dieses Projekt wurde im Rahmen des B. Sc. Moduls <i>Webtechnologien</i> umgesetzt.
 Das Projekt beinhaltet eine vollständige Webapplikation, in der Tankstellenpreise angezeigt werden können.
 Der Benutzer kann sich Tankstellen in seiner realen Umgebung anzeigen und Ausgewählte als Favoriten speichern.
 Im Hintergrund werden die Daten in einer MySQL-Datenbank gespeichert.
